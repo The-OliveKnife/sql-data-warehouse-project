@@ -35,7 +35,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 
 ## 🛡️ License
-This project is licensed under the [MIT License](License). You are free to use, modify, and share this project.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project.
 
 ## 🌟 About Me
 Hi there! I'm **Kartik Tyagi**, also known as **The-OliveKnife**. I'm an aspiring Data Engineer on a mission to build professional data engineering projects to make business & downstream data professionals' lives easier.
